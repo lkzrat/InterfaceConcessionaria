@@ -1,5 +1,5 @@
 # InterfaceConcessionaria
-#### **Description**: Final project made in C for UERJ, written in portuguese
+#### **Description**: Final project made in C for a friend in colege, written in portuguese
 ##### The program creates a binary database with the following items: 
 #### **Carro**:
 >- Modelo
@@ -25,7 +25,7 @@
 >- Percentual de Venda
 #### It gives the user the following tools:
 - **Insert** new items (Carro, Cliente and Vendedor)
-- **List** the acutal existing items (Carro, Cliente and Vendedor)
+- **List** the actual existing items (Carro, Cliente and Vendedor)
 - **Consult** Carro items by: Ano de Frabircação, Modelo e Placa
 - **Change** items (Carro, Cliente and Vendedor)
 - **Remove** items (Carro, Cliente and Vendedor)
